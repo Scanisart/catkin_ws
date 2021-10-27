@@ -1,0 +1,2 @@
+turtlebot_dabit
+-DCATKIN_DEVEL_PREFIX=/home/kol/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kol/catkin_ws/install -G Unix Makefiles
