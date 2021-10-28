@@ -91,6 +91,7 @@ Note: This command is used to launch a default map, you can use a different comm
 roslaunch turtlebot_gazebo amcl_demo.launch
 
 Launch your own map using the command below:
+
 roslaunch turtlebot_gazebo amcl_demo.launch map_file:=/home/<user_name>/<folder_name>/<map_name>.yaml
 roslaunch turtlebot_rviz_launchers view_navigation.launch
 
