@@ -1,4 +1,6 @@
 # ros-simulation
+# IT IS RECOMMENDED THAT YOU READ THIS IN RAW FORMAT AS SOME INSTRUCTIONS ARE ODDLY FORMATTED AND MAY CONFUSE USERS. PLEASE RELAY ANY ISSUES WITH THIS INSTRUCTIONS TO ME
+
 Robotic Programming using Gazebo Simulation
 
 To get the Kobuki to work on Gazebo, follow these series of steps. We will be using the existing libraries of 
